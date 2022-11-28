@@ -1,0 +1,190 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Helvetica, Arial, sans-serif;
+}
+header nav{
+    background-color: #128c7e;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+header nav img{
+    width : 170px;
+}
+header nav ul{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+    list-style: none;
+    padding: 34px;
+    margin: 0 1cm 0 2cm;
+}
+.features li{
+    margin-right: 30px;
+}
+header nav ul li a{
+    color: #fff;
+    text-decoration: none;
+    padding: 0 2rm 0 0;
+    font-weight: bolder;
+    justify-content:space-around;
+
+}
+
+        /*BODY STARTING, frist area*/
+        /*BODY STARTING, frist area*/
+        /*BODY STARTING, frist area*/
+
+.RightHeading{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 100px;
+    text-align: left;
+    padding-top: 2rem;
+    padding-right: 2cm;
+}
+.SimpleHead{
+    font-size: 33px;
+    line-height: 43px;
+}
+.StarText{
+    color: #5E5E5E
+}
+.SmallLogos img{
+    width: 2.2rem;
+    padding: -5px; 
+    padding-top: 2px;
+
+}
+.SmallLogos a{
+    text-decoration: none;
+    color: #128c7e;
+}
+.SmallLogos a:hover{
+    text-decoration:underline;
+    color: #128c7e;
+}
+.FullPhone img{
+    height: 500px;
+    padding-left: 2cm;
+
+
+        /* section two starts from here */
+        /* section two starts from here */
+        /* section two starts from here */
+}
+.SecondArea{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between
+}
+.SecondArea p{
+    text-align: center;
+    padding-top: 10px;
+}
+.SecondArea img{
+   height: 400px;
+   justify-content: center;
+   padding-left: 3cm;
+}
+.RightsidePara{
+    padding-right: 2cm;
+    background-color: #d8e8ea;
+    padding: 2;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.SectionTwoRightSide p{
+    text-align: center;
+    padding-top: 10px;
+}
+.SectionTwoRightSide img{
+    text-align: center;
+    padding-top: 10px;
+    padding-right: 2cm;
+    height: 350px;
+    padding-left: 2cm;
+}
+.SectionTwoRightSide{
+    background-color: #e7f0e4;
+}
+/*button{
+    border-radius: 40px;
+    background-color: white;
+    text-align: center;
+    border: 2px solid #77d7c8;
+    width: 200px;
+    height: auto;
+    padding: 2rem 0 2rem 0;
+    margin: 30px 0 30px 0;
+    margin-left: 600px;
+}
+*/
+
+#list{
+    padding-left: 589px;
+    padding-bottom: 35px;
+}
+ul.button{
+    list-style-type: none;
+    border: 1px solid #128c7e;
+    border-radius: 35px;
+    text-align: center;
+    width: 218px;
+    height: 52px;
+    cursor: pointer;
+}
+
+        /* Footer Section starts from here */
+        /* Footer Section starts from here */
+        /* Footer Section starts from here */
+
+.FooterHeadings{
+    background-color: #273443;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    padding: 1cm 5cm 2cm 5cm;
+    list-style: none;
+    color: #fff;
+}
+.FooterHeadings div ul{
+    padding: 1cm 1.5cm 0 0;
+    list-style: none;
+}
+.FooterHeadings li:hover{
+    text-decoration:underline;
+    cursor: pointer;
+}
+.SecondFooter{
+    background-color: #1c1e21;
+    padding: 0.5cm 0 0.5cm 0;
+    display: flex;
+    justify-content:space-between;
+    width: 100%
+}
+.first a{
+    width: 12%;
+    margin-left: 150px;
+    text-decoration: none;
+    color: #fff;
+}
+.second p a{
+    color: #fff;
+    text-decoration: none;
+    display: flex;
+    justify-content: space-between;
+}
+.Copyright p{
+    color: #fff;
+}
+.second a{
+    width: 12%;
+    margin-right: 150px;
+    text-decoration: none;
+    color: #fff;
+}
+
+
